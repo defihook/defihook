@@ -2,7 +2,7 @@
 <h1 align="left">Working on Solana, Ethereum, TON, Bitcoin ... </h1>
 
 
-#### Website: [https://www.solana0x.dev](https://www.solana0x.dev)
+#### Website: [https://franky.website](https://franky.website)
 
 - fork `pump.fun` 
 - Top rated BLOCKCHAIN DEV
