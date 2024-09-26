@@ -1,13 +1,9 @@
-<h1 align="left">Hi 👋, I'm Franky(DefiHook) </h1>
-<h1 align="left">Working on Solana, Ethereum, TON, Bitcoin ... </h1>
+<h1 align="left">Hi 👋, I'm Franky,Multichain Frontend Web3 Dev </h1>
+<h1 align="left">Working on React, Next, Solana, Ethereum, TON, Bitcoin ... </h1>
 
 
 #### Website: [https://franky.website](https://franky.website)
 
-- fork `pump.fun` 
-- Top rated BLOCKCHAIN DEV
-- Web3 developer on `Solana` and `EVM` networks
-- Game developer, jackpot, crash, tower, mine-sweeper, buster game
 #### Connect with me
 <p align="left">
 <a href="https://twitter.com/defihook" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="Spmoe Twitter" height="22" width="25" /></a>
