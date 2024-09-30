@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Franky,Multichain Frontend Web3 Dev </h1>
-<h1 align="left">Working on React, Next, Solana, Ethereum, TON, Bitcoin ... </h1>
+#### Hi 👋, I'm Franky,Multichain Frontend Web3 Dev
+#### Working on React, Next, Solana, Ethereum, TON, Bitcoin ...
 
 
 #### Website: [https://franky.website](https://franky.website)
